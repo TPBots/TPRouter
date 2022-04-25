@@ -1,0 +1,24 @@
+{
+  "name": "tprouter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protocol.telepresence.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TPBots/TPRouter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TPBots/TPRouter/issues"
+  },
+  "homepage": "https://github.com/TPBots/TPRouter#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "ws": "^8.5.0"
+  }
+}
